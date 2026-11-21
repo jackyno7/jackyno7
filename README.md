@@ -26,8 +26,8 @@ PowerShell-Prüfskripte und IT-Vorlagen für Windows-Administratoren, auf Deutsc
 
 Weitere kostenlose Skripte:
 
-- [Zertifikate-Bericht](https://github.com/jackyno7/zertifikate-bericht) (abgelaufene und bald ablaufende Zertifikate)
-- [Privilegierte-Konten-Check](https://github.com/jackyno7/privilegierte-konten-check) (7 Prüfpunkte zu Administratorkonten)
+- [Zertifikate-Bericht](https://github.com/jackyno7/zertifikate-bericht) (abgelaufene und bald ablaufende Zertifikate) · [Gumroad](https://mueller86.gumroad.com/l/zsfvec)
+- [Privilegierte-Konten-Check](https://github.com/jackyno7/privilegierte-konten-check) (7 Prüfpunkte zu Administratorkonten) · [Gumroad](https://mueller86.gumroad.com/l/pamjky)
 
 ## Vorlagen und Checklisten
 
